@@ -1,97 +1,121 @@
+# 🧪 Saadi — Electrical Engineer | Robotics & Embedded Systems Researcher | Space Enthusiast 
+
+**BSc in Electrical Engineering, University of Debrecen**  
+🎓 *Stipendium Hungaricum Scholar*  
+🎓 *TalentUD College of Honours member* 
+📊 *GPA: 4.56 / 5.00*
+
+
+
+## 🔍 **Profile Summary**
+
+I am an Electrical Engineering student specializing in embedded systems, robotics, and precision sensing technologies. My academic and research work centers on **MEMS based IMU analysis**, **terrain adaptive robotics**, **signal processing**, and **embedded firmware development**.
+
+I combine analytical modeling, multi layer hardware design, and experimental validation to develop systems capable of intelligent sensing, environmental adaptation, and autonomous motion.
+
+
+
+## 🧠 **Research and Technical Interests**
+
+- **Sensor Fusion and Filtering**  
+  Kalman filtering, complementary filtering, motion tracking algorithms  
+- **MEMS IMU Design and Integration**  
+  Precision calibration, drift mitigation, noise modeling  
+- **Terrain Adaptive Robotics**  
+  Perception driven navigation on rough and unstructured surfaces  
+- **Embedded Firmware and Instrumentation**  
+  Real time data acquisition, SD logging, Bluetooth data pipelines  
+- **Energy and Space Systems**  
+  Control, reliability, and instrumentation for extreme environments  
+
+  
+
+## ⚙️ **Technical Competence**
+
+**Programming and Firmware**  
+C, C++, Embedded C for STM32 and ESP32, Arduino frameworks  
+
+**Hardware and PCB Design**  
+KiCad,  signal integrity design, noise mitigation  
+
+**Analysis and Modeling Tools**  
+MATLAB, Python (NumPy, SciPy, matplotlib), data processing pipelines  
+
+**CAD and Mechanical Design**  
+AutoCad, Fusion 360 for robotic assemblies and vibration isolation  
+
+**Control and Data Systems**  
+Serial interfaces, I²C, SPI, real time logging, calibration frameworks  
+
+---
+## 🧩 **Selected Projects**
+
+### **1. Terrain Adaptive Robotic Platform**
+A four wheel robotic system designed for IMU based terrain response.
+
+- Integrated MPU6050 for real time orientation tracking  
+- Developed complementary filter for motion stabilization  
+- Designed vibration isolated chassis in AutoCAD  
+- Logged multi sensor data for terrain classification  
+
+### **2. MEMS IMU Custom PCB (4 Layer)**
+A modular sensing board integrating microcontroller, IMU and power systems.
+
+- Noise optimized layout and grounding strategy  
+- JST modular interfaces for rapid debugging  
+- Firmware validation and calibration testing  
+
+### **3. Embedded Data Logging and Analysis Suite**
+Modular firmware for continuous IMU and motor state acquisition.
+
+- Implemented low latency communication  
+- Designed SD and Bluetooth logging architecture  
+- Built Python based visualization tools for test analysis  
+
+
+
+## 🏛 **Academic and Professional Engagement**
+
+- IEEE Student Member  
+- Tech Support Analyst at **EcoFlow**, focusing on diagnostics and hardware behavior  
+- Assistant Engineer at **Honghui Intelligent Technology**  
+- Active participant in robotics competitions and engineering challenges  
+- Instructor for electronics and embedded programming for junior students  
+
+
+
+## 🎯 **Aspirations**
+
+I aim to pursue research oriented master’s studies in:
+
+- **Space Engineering**  
+- **Nuclear Engineering**  
+- **Electrical or Industrial Informatics Engineering**
+
+My long term goal is to advance precision sensing, sensor fusion, and autonomous robotics systems applicable to **planetary exploration**, **scientific payloads**, and **mission critical environments**.
+
+
+
+## 📚 **Core Values**
+
+> *“Engineering is not just ensuring that systems work.  
+> It is understanding why they work, and ensuring reliability under every possible condition.”*
+
+
+
+## 📫 **Contact and Professional Links**
+
+📧 Email: *engr.selenophile@gmail.com*  
+🔗 LinkedIn: *[Saad]([url](https://www.linkedin.com/in/saad-bin-musawar))*  
 
 
 ---
 
-# 🧪 Saadi — Electrical Engineering | Robotics | Embedded Systems Research
+## 🧰 **Key Tools and Technologies**
 
-**BSc in Electrical Engineering**, *University of Debrecen*  
-🎓 **Stipendium Hungaricum Scholar** | GPA: **4.56 / 5.00**
-
----
-
-## 🔍 Profile Summary
-
-I am an **Electrical Engineering student** specializing in **embedded systems**, **robotics**, and **sensor integration**, with particular interest in **MEMS-based IMU development**, **signal processing**, and **terrain-adaptive robotics**.  
-
-My work combines **analytical modeling**, **hardware design**, and **experimental validation**, applying rigorous engineering principles to develop systems capable of sensing, adaptation, and intelligent behavior.
+C • C++ • Python • Visio • ESP32 • Arduino  
+KiCad •EasyEDA • MATLAB  • Simulink • Webots
+AutoCAD(2D) • TINA-TI • Git  
+IMU and MEMS Device Integration  
 
 ---
-
-## 🧠 Research and Technical Interests
-
-- **Sensor Fusion and Filtering** – Kalman and Complementary filters for motion tracking  
-- **MEMS IMU Design and Integration** – Precision calibration, drift compensation  
-- **Terrain-Adaptive Robotics** – Control and sensing for surface-aware navigation  
-- **Embedded Firmware Development** – Real-time data acquisition and instrumentation  
-- **Energy and Space Systems** – Cross-domain interest in energy efficiency and control in extreme environments  
-
----
-
-## ⚙️ Technical Competence
-
-- **Programming & Firmware:** C, C++, Embedded C for STM32/Arduino  
-- **Hardware Design:** PCB design (Altium Designer, KiCad), interface electronics, noise mitigation  
-- **Analysis Tools:** MATLAB, Python (NumPy, matplotlib), simulation and signal analysis  
-- **CAD & Mechanical Design:** SolidWorks, Fusion 360 for robotics and assembly modeling  
-- **Control & Data Systems:** Serial communications, real-time logging, sensor calibration pipelines  
-
----
-
-## 🧩 Selected Projects
-
-### 1. Terrain-Adaptive Robotic Platform  
-*Developed a small-scale robotic system equipped with an IMU and adaptive motion response.*  
-- Integrated IMU (BNO055) for real-time attitude tracking  
-- Implemented complementary filter for motion stabilization  
-- Designed vibration-isolated structure in Fusion 360  
-
-### 2. MEMS IMU PCB Design  
-*Designed a custom multi-layer PCB integrating motion sensors and microcontroller interfaces.*  
-- Focused on noise reduction and signal integrity  
-- Performed firmware testing and sensor data validation  
-
-### 3. Embedded Data Logging and Analysis  
-*Developed a modular firmware for continuous sensor data acquisition and visualization.*  
-- Optimized for low-latency communication  
-- Implemented serial data streaming and Python-based visualization  
-
----
-
-## 🏛 Academic and Professional Engagement
-
-- **IEEE Student Member**  
-- **Tech Support Analyst**, *EcoFlow* — focused on hardware diagnostics and product engineering support  
-- **Robotics Competition Participant** — engaged in integrated mechatronic system design  
-- **Mentorship and Peer Support** — guided junior students in embedded programming and robotics fundamentals  
-
----
-
-## 🎯 Aspirations
-
-Pursuing research-oriented master’s studies in **Nuclear Engineering**, **Space Engineering**, or **Electrical/Industrial Informatics**.  
-Long-term goals include advancing **sensor fusion methodologies**, **energy systems**, and **precision robotics** applicable to planetary exploration and autonomous systems.
-
----
-
-## 📚 Core Values
-
-> “Engineering is not about building systems that simply work —  
-> it is about understanding why they work, and ensuring they work reliably under every condition.”
-
----
-
-## 📫 Contact and Professional Links
-
-- **Email:** [Add your academic email address]  
-- **LinkedIn:** [Add your LinkedIn profile URL]  
-- **GitHub:** [Add your GitHub profile link]  
-
----
-
-## 🧰 Key Tools & Technologies
-
-`C` · `C++` · `Python` · `STM32` · `Arduino` · `KiCad` · `Altium Designer` ·  
-`MATLAB` · `SolidWorks` · `Fusion 360` · `Git` · `IMU / MEMS Devices`  
-
----
-
